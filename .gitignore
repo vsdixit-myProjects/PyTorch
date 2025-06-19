@@ -1,0 +1,8 @@
+# Virtual environment
+venv/
+.venv/
+.linreg/ # Add this line
+ENV/
+env/
+env.bak/
+
